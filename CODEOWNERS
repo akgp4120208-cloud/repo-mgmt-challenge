@@ -1,0 +1,7 @@
+# Core functionality
+/src/app.py                   @akgp4120208-cloud
+/src/backend/database.py      @akgp4120208-cloud
+/src/backend/routers/auth.py  @akgp4120208-cloud
+
+# Frontend
+/src/static/   @akgp4120208-cloud
